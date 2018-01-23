@@ -2,4 +2,6 @@ the rainbow
 color of rainbow
 purpel
 blue
+green
+any other color
 
